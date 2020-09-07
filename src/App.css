@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.active {
+  color:red;
+  font-weight: 600;
+}
+
+body {
+  background-color: rgb(209, 203, 195) !important;  
+}
+
+body .bg-dark {
+  background-color: black !important;
+}
